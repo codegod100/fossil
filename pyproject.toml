@@ -33,7 +33,6 @@ watchfiles = "^0.21.0"
 
 [[tool.poetry.source]]
 name = "PyPI"
-priority = "primary"
 
 [build-system]
 requires = ["poetry-core"]
